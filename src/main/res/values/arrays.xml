@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <resources>
+
+
+    -<string-array name="subjects">
+
+    <item>Choose a subject</item>
+
+    <item>Math</item>
+
+    <item>Computer Science</item>
+
+    <item>Biology</item>
+
+    <item>Chemistry </item>
+
+    <item>Physics</item>
+
+    <item>Psychology </item>
+
+    <item>Environmental Science </item>
+
+    <item>Engineering</item>
+
+    <item>English</item>
+
+    <item>Business</item>
+
+</string-array>
+
+
+    -<string-array name="Math">
+
+    <item>Choose a course </item>
+
+    <item>o Intermediate Algebra </item>
+
+    <item>o Algebra </item>
+
+    <item>o Precalculus </item>
+
+    <item>o Calculus I </item>
+
+    <item>o Calculus II </item>
+
+    <item>o Calculus III </item>
+
+    <item>o Discrete Math and Structures </item>
+
+    <item>o Probability Theory </item>
+
+    <item>o Numerical Analysis </item>
+
+    <item>o Linear Algebra </item>
+
+    <item>o Probability and Statistics </item>
+
+</string-array>
+
+
+    -<string-array name="Computer_Science">
+
+    <item>Choose a class</item>
+
+    <item>o Programming I and II (C language)</item>
+
+    <item>o Algorithms</item>
+
+    <item>o Objected Oriented Programming I (C++ language)</item>
+
+    <item>o Objected Oriented Programming II (Java)</item>
+
+    <item>o Software Engineering</item>
+
+    <item>o System Analysis and Design</item>
+
+    <item>o Python.</item>
+
+    <item>o Mobile Programming</item>
+
+    <item>o Computer Architecture</item>
+
+    <item>o Data Communication</item>
+
+    <item>o Files and Data Bases</item>
+
+    <item>o Operating System</item>
+
+    <item>o Survey of Programming Language</item>
+
+</string-array>
+
+
+    -<string-array name="Business">
+
+    <item>Choose a course </item>
+
+    <item>o Accounting I</item>
+
+    <item>o Accounting II</item>
+
+    <item>o The Legal Environment of Business</item>
+
+    <item>o Introductory Microeconomic Theory</item>
+
+    <item>o Corporate Finance</item>
+
+    <item>o Principles of Marketing</item>
+
+    <item>o Organizational Behavior</item>
+
+    <item>o Statistics</item>
+
+    <item>o Business Analytics</item>
+
+    <item>o Advanced Statistics in Psychology</item>
+
+    <item>Fundamentals of Business Enterprise</item>
+
+    <item>American National Government</item>
+
+</string-array>
+
+
+    -<string-array name="Chemistry">
+
+    <item>Choose a course </item>
+
+    <item>o Organic Chemistry I and II</item>
+
+    <item>o Preparatory Chemistry</item>
+
+    <item>o Chem Concepts and Applications</item>
+
+    <item>o General Chemistry I and II</item>
+
+    <item>o Intro to Organic and Biochemistry</item>
+
+    <item>o Analytical Chemistry I and II</item>
+
+    <item>o Instrumental Analysis</item>
+
+    <item>o Physical Chemistry I and II</item>
+
+    <item>o Intermediate Physical Chemistry I and II</item>
+
+    <item>o Toxicology</item>
+
+    <item>o Intermediate Organic Chemistry</item>
+
+    <item>o Chemical Research</item>
+
+    <item>o Chemical Thermodynamics</item>
+
+    <item>o Advanced Inorganic Chemistry</item>
+
+    <item>o Topics Chemistry/Biochem</item>
+
+    <item>o Biochem of Specialized Tissues</item>
+
+    <item>o Biochemistry of the Hormones</item>
+
+    <item>o Immunochemistry</item>
+
+    <item>o Enzyme Chemistry</item>
+
+    <item>o Biochemistry I and II</item>
+
+</string-array>
+
+
+    -<string-array name="English">
+
+    <item>Choose a course </item>
+
+    <item>o Advanced Composition</item>
+
+    <item>o Poetry Analysis</item>
+
+    <item>o Fiction Analysis</item>
+
+    <item>o Contemporary Literary Criticism</item>
+
+    <item>o Rhetorical Criticism</item>
+
+    <item>o Modern Short Story</item>
+
+</string-array>
+
+
+    -<string-array name="Biology">
+
+    <item>Choose a course </item>
+
+    <item>o General Biology for Majors I and II</item>
+
+    <item>o Microbiology</item>
+
+    <item>o Cell and Molecular Methods</item>
+
+    <item>o Genetic Principles</item>
+
+    <item>o Cell Biology</item>
+
+    <item>o Biochemistry I and II</item>
+
+    <item>o Anatomy</item>
+
+    <item>o Comparative Anatomy</item>
+
+    <item>o Neurophysiology</item>
+
+    <item>o Forensic Osteology</item>
+
+    <item>o Toxicology</item>
+
+    <item>o Histology</item>
+
+    <item>o Immunology and Infection</item>
+
+    <item>o Developmental Biology</item>
+
+    <item>o Genes and Genomes</item>
+
+    <item>o Mechanisms of Disease</item>
+
+    <item>o Immunology and Infection</item>
+
+    <item>o Developmental Biology</item>
+
+</string-array>
+
+
+    -<string-array name="Physics">
+
+    <item>Choose a course </item>
+
+    <item>o University Physics I and II</item>
+
+    <item>o Modern Physics Lab</item>
+
+    <item>o Modern Physics</item>
+
+    <item>o Mechanics</item>
+
+    <item>o Quantum Mechanics</item>
+
+    <item>o Electromagnetics</item>
+
+</string-array>
+
+
+    -<string-array name="Psychology">
+
+    <item>Choose a course </item>
+
+    <item>o General psychology</item>
+
+    <item>o Learning psychology</item>
+
+    <item>o Physiological psychology</item>
+
+    <item>o Introductory Statistics for Psychology Majors</item>
+
+    <item>o Abnormal Psychology</item>
+
+    <item>o Research Methods</item>
+
+    <item>o Research Methods Lab</item>
+
+    <item>o Sophomore Colloquium</item>
+
+    <item>o Junior Colloquium</item>
+
+    <item>o Developmental Psychology</item>
+
+    <item>o Industrial Psychology</item>
+
+    <item>o Political Psychology</item>
+
+    <item>o Human Sexuality</item>
+
+</string-array>
+
+
+    -<string-array name="SMC">
+
+    <item>Choose a course </item>
+
+    <item>o Foundations of Civilization</item>
+
+    <item>o Foundations of Reflection: Self</item>
+
+    <item>o Foundations of Reflection: Nature</item>
+
+    <item>o Foundations of Reflection: Others</item>
+
+    <item>o Foundations of Reflection: God</item>
+
+    <item>o Foundations of Practice: Ethics</item>
+
+    <item>o Foundations of Practice: Civic Engagement and Social Action</item>
+
+    <item>o Foundations of Practice: Fine Arts and Creative Process</item>
+
+    <item>o Foundations of Practice: Literature</item>
+
+    <item>o Capstone Seminar: Prospects for Community and Civilization</item>
+
+</string-array>
+
+
+    -<string-array name="Engineering">
+
+    <item>Choose a course </item>
+
+    <item>o Programming for Engineers</item>
+
+    <item>o Object-Oriented Programming and Design</item>
+
+    <item>o Logic Design Laboratory</item>
+
+    <item>o Engineering Mechanics</item>
+
+    <item>o Fundamentals of Logic Design</item>
+
+    <item>o Circuit Analysis I and II</item>
+
+    <item>o Electronics I and II</item>
+
+    <item>o Microprocessors I and II</item>
+
+</string-array>
+
+
+    -<string-array name="Environmental_Science">
+
+    <item>Choose a course </item>
+
+    <item>o Global Change</item>
+
+    <item>o General Ecology</item>
+
+    <item>o Energy Resources and the Environment</item>
+
+    <item>o Environmental Geology</item>
+
+</string-array>
+
+    <!--don't remove this part-->
+
+
+
+    -<string-array name="Empty">
+
+    <item>Choose a subject first</item>
+
+</string-array>
+
+</resources>

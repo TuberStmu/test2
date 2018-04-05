@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+
+<!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+
+<!--android:layout_width="match_parent"-->
+
+<!--android:layout_height="match_parent"-->
+
+<!--tools:context="com.rough.tuber.tuber.StudentRegister">-->
+
+    <LinearLayout android:weightSum="14" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/main_layout" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--</android.support.constraint.ConstraintLayout>-->
+
+
+    <ScrollView android:layout_height="match_parent" android:layout_width="match_parent">
+
+
+    <LinearLayout android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent">
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etFirstname" android:text="" android:inputType="textPersonName" android:hint="First Name"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etLastname" android:text="" android:inputType="textPersonName" android:hint="Last name"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etEmail" android:text="" android:inputType="textEmailAddress" android:hint="Email"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etPassword" android:text="" android:inputType="textPassword" android:hint="Password"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etDOB" android:text="" android:inputType="date" android:hint="Date of Birth"/>
+
+
+        <Spinner
+            android:id="@+id/etGender"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:hint="Gender"
+            android:inputType="textPersonName"
+            android:text="" />
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etMajor" android:text="" android:inputType="textPersonName" android:hint="Major"/>
+
+        <Spinner
+            android:id="@+id/etClassification"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:hint="Classification"
+
+            android:inputType="textPersonName"
+            android:text="" />
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etUsername" android:text="" android:inputType="textPersonName" android:hint="Username"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etStudentID" android:text="" android:inputType="textPersonName" android:hint="Student ID"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/etPhonenumber" android:text="" android:inputType="phone" android:hint="Phone Number"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/bSRegister" android:text="Register" android:textColor="@android:color/black" android:background="@android:color/holo_blue_bright" style="@style/Widget.AppCompat.Button.Colored"/>
+
+</LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>
